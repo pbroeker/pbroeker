@@ -4,12 +4,11 @@ Hello, my name ich Philipp and I am a Software Developer from Germany, currently
 
 I love to write clean, readable, performant, so in short terms just sexy, code. I am most experienced in Typescript and JavaScript but at the moment also heavily interested in [GO](https://golang.org/) and made my first steps with that beautiful language.
 
-Future technology that solves or improves important problems, are my passio, which also translates to the projects I am most interested in. Currently working on an online adaptation of a climate change board game of the NGO [Days of Adapation](https://dayad.org/game-day). 
+Future technology that solves or improves important problems, are my passion, which also translates to the projects I am most interested in. Currently working on an online adaptation of a climate change board game of the NGO [Days of Adapation](https://dayad.org/game-day). 
 
 Outside of programming I love to organise small events (mostly food related), go hiking and SciFi.
 
-Looking forward to hear from you about new, exciting projects and technology,
-Philipp.
+I am looking forward to hear from you about new, exciting projects and technology.
 
 ### My current Tech-Stack
 
