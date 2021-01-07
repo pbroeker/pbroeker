@@ -1,6 +1,6 @@
 # Philipp Broeker
 
-Hello, my name ich Philipp and I am a Software Developer from Germany, currently based in Berlin. My original background is chemistry, biology and teaching, which provided very useful when learning programming. 
+Hello, my name is Philipp and I am a Software Developer from Germany, currently based in Berlin. My original background is chemistry, biology and teaching, which provided very useful when learning programming. 
 
 I love to write clean, readable, performant, so in short terms just sexy, code. I am most experienced in Typescript and JavaScript but at the moment also heavily interested in [GO](https://golang.org/) and made my first steps with that beautiful language.
 
