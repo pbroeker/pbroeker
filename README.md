@@ -6,9 +6,9 @@ I love to write clean, readable, performant, so in short terms just sexy, code. 
 
 Future technology that solves or improves important problems, are my passion, which also translates to the projects I am most interested in. Current projects:
 
-Car charging app for [Envision-Group](https://www.envision-group.com/) in React Native.
-Psychology questionaire app and admin tool for [Humangold](https://humangold.de/) in Angular.
-Advidsory app for [Landesbausparkasse LBS](https://www.lbs.de) in Angular-Ionic.
+- Car charging app for [Envision-Group](https://www.envision-group.com/) in React Native.
+- Psychology questionaire app and admin tool for [Humangold](https://humangold.de/) in Angular.
+- Advidsory app for [Landesbausparkasse LBS](https://www.lbs.de) in Angular-Ionic.
 
 Outside of programming I love to organise small events (mostly food related), go hiking and SciFi.
 
