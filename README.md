@@ -11,7 +11,7 @@
  
 ## About me
  
-I came to software engineering via an unconventional path — a Master's in Chemistry & Biology and seven years in teaching. That background turned out to be excellent preparation: I approach code the way I approached the classroom and the lab — with clarity, structure, and genuine curiosity.
+I came to software engineering via an unconventional path — a Master's in Chemistry & Biology and seven years in teaching. That background turned out to be excellent preparation: I approach code the way I approached the classroom and the lab: with clarity, structure, and genuine curiosity.
  
 Since 2020 I've been building production software in TypeScript and JavaScript, with a focus on scalable **Node.js backends**, maintainable **Angular and React** frontends, and clean CI/CD pipelines. I'm currently working at **Interhyp AG** in Munich on microservice architecture, and I care a lot about testability, code review culture, and cross-functional collaboration.
  
